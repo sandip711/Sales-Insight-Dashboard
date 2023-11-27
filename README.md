@@ -8,4 +8,5 @@ To create a sales dashboard using PowerBI for AtliQ hardware, providing the sale
 The objective is to enable data-driven decision-making by identifying the weakest areas that require focus for increasing sales and improving overall performance.
 The dashboard should offer simple, understandable, and digestible insights accessible on a daily basis.
 
+## Sample Dashboard
 ![image](https://github.com/sandip711/Sales-Insight-Dashboard/assets/123245527/534f1107-520d-45f3-a342-7ffcf1a10e85)
