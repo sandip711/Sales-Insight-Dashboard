@@ -7,3 +7,5 @@ The sales manager of AtliQ hardware is facing challenges in tracking sales and g
 To create a sales dashboard using PowerBI for AtliQ hardware, providing the sales manager with a clear and visual representation of real data.
 The objective is to enable data-driven decision-making by identifying the weakest areas that require focus for increasing sales and improving overall performance.
 The dashboard should offer simple, understandable, and digestible insights accessible on a daily basis.
+![Uploading image.png…]()
+
